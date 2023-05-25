@@ -31,7 +31,24 @@ public class Main {
             System.out.println("This is an error");
         }
 
-        //test
+        boolean isCar = false;
+        if(isCar = true) {
+            System.out.println("This is not supposed to happen.");
+        }
+
+        //Ternary Operator
+        String makeOfCar = "BMW";
+        boolean isDomestic = makeOfCar == "BMW" ? false : true;
+        if (isDomestic){
+            System.out.println("This car is domestic to our country");
+        } else {
+            System.out.println("This is a foreign car");
+        }
+
+        int ageOfClient = 22;
+        String ageText = ageOfClient >=21 ? "is Over 21" : "Cannot be served alcohol";
+        System.out.println("This client " +ageText);
+
 
     }
 }
