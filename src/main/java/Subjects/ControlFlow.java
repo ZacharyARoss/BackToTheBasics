@@ -1,4 +1,4 @@
-package org.example;
+package Subjects;
 
 public class ControlFlow {
 

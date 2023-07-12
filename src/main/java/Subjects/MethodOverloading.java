@@ -1,4 +1,4 @@
-package org.example;
+package Subjects;
 
 public class MethodOverloading {
     public static double convertToCentimeters(int inches){
