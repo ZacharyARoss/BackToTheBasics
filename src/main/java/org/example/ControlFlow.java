@@ -3,6 +3,7 @@ package org.example;
 public class ControlFlow {
 
     public static void main(String[] args) {
+        //normal if else statement
 //        int value = 1;
 //        if (value == 1){
 //            System.out.println("value was 1");
@@ -12,7 +13,7 @@ public class ControlFlow {
 //            System.out.println("value was not 1 or 2");
 //        }
 
-        //normal if else statement but now switch
+        // switch statement
         int switchValue = 3;
         switch (switchValue) {
             case 1 -> System.out.println("value was 1");
