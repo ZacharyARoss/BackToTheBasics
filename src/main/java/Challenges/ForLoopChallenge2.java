@@ -8,7 +8,7 @@ break out of the loop when you have found 5 numbers that have met those conditio
 After breaking out of the loop print the sum of the numbers that have met all the conditions above
  */
 
-public class WhileLoopChallenge {
+public class ForLoopChallenge2{
     public static void main(String[] args) {
         int count = 0;
         int sum = 0;
