@@ -1,6 +1,6 @@
 package Subjects;
 
-public class Arrays {
+public class LessonArray {
     public static void main(String[] args) {
 
         int [] myIntArray = new int[10];

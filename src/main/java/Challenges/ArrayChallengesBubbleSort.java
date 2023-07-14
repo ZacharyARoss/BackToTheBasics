@@ -10,7 +10,7 @@ print the array before you sort it
 print the array after you sort it
 You can choose to create a new sorted array, or just sort the current array
  */
-public class ArrayChallenges {
+public class ArrayChallengesBubbleSort {
     public static void main(String[] args) {
 
     int[] unsortedArray = getRandomArray(10);
